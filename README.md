@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Yuvraj Chaturvedi
 
 ## 🚀 About Me
-Class 12 PCM student passionate about **Cybersecurity**, **Artificial Intelligence**, and **Ethical Hacking**. Currently preparing for CBSE board exams (Feb-Mar 2025) while exploring cutting-edge technologies and building my skills in software development.
+Passionate about **Cybersecurity**, **Artificial Intelligence**, and **Ethical Hacking**. CBSE Class 12 (PCM + CS) graduate exploring cutting-edge technologies and building skills in software development. Currently focused on pursuing higher education and career opportunities in tech.
 
 ## 🎯 Current Focus
-- 📚 Preparing for CBSE Class 12 Board Exams (PCM + Computer Science)
 - 🔐 Learning Ethical Hacking and Cybersecurity fundamentals
-- 🤖 Exploring AI/ML concepts and applications
+- 🤖 Exploring AI/ML concepts and applications  
 - 💻 Building projects in full-stack development
 - 🎖️ NDA Aspirant - Physical and mental fitness training
+- 🎓 Preparing for college admissions and entrance exams
 
 ## 💡 Interests & Skills
 - **Programming Languages**: Python, C++, Java, JavaScript
@@ -36,11 +36,12 @@ Class 12 PCM student passionate about **Cybersecurity**, **Artificial Intelligen
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj2476&layout=compact&theme=radical)
 
 ## 🎓 Education & Goals
-- **Currently**: Class 12 CBSE (PCM + CS) - Burari, Delhi
+- **Recently Completed**: Class 12 CBSE (PCM + CS) - Burari, Delhi
 - **Future Plans**: 
   - Pursuing degree in Computer Science or Cybersecurity
   - NDA entrance examination
   - Career in AI/ML or Cybersecurity domain
+  - Contributing to open-source projects
 
 ---
 
