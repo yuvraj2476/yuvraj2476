@@ -7,8 +7,6 @@ Passionate about **Cybersecurity**, **Artificial Intelligence**, and **Ethical H
 - 🔐 Learning Ethical Hacking and Cybersecurity fundamentals
 - 🤖 Exploring AI/ML concepts and applications  
 - 💻 Building projects in full-stack development
-- 🎖️ NDA Aspirant - Physical and mental fitness training
-- 🎓 Preparing for college admissions and entrance exams
 
 ## 💡 Interests & Skills
 - **Programming Languages**: Python, C++, Java, JavaScript
@@ -39,10 +37,7 @@ Passionate about **Cybersecurity**, **Artificial Intelligence**, and **Ethical H
 - **Recently Completed**: Class 12 CBSE (PCM + CS) - Burari, Delhi
 - **Future Plans**: 
   - Pursuing degree in Computer Science or Cybersecurity
-  - NDA entrance examination
-  - Career in AI/ML or Cybersecurity domain
-  - Contributing to open-source projects
-
+  
 ---
 
 💡 *"The only way to do great work is to love what you do." - Steve Jobs*
